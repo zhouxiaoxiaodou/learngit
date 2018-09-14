@@ -17,4 +17,9 @@ bug102 need to be fixed.
 
 bug103 has been fixed.
 
+<<<<<<< HEAD
 fix
+=======
+dev area.
+
+>>>>>>> dev

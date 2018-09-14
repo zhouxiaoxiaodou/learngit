@@ -9,3 +9,6 @@ Creating a new branch is quick and simple.
 Creating a branch is quick and simple.
 >>>>>>> featureal
 ban fast forward test.
+
+the bug101 has been fixed.
+

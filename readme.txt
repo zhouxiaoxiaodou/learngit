@@ -23,3 +23,7 @@ fix
 dev area.
 
 >>>>>>> dev
+
+
+bug revise
+

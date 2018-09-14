@@ -10,5 +10,5 @@ Creating a branch is quick and simple.
 >>>>>>> featureal
 ban fast forward test.
 
-the bug101 has been fixed.
 
+there has a bug 101 need to fixed.
